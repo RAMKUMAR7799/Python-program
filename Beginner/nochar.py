@@ -1,6 +1,6 @@
 n=input()
-c=0
+r=0
 for i in n:
 	if i.isalpha():
-		c=c+1
-print('number of character :'+str(c))
+		r=r+1
+print('number of character :'+str(r))
