@@ -1,6 +1,6 @@
 name=input("")
 rev=name[::-1]
 if name==rev:
-  print("Yes")
+  print("yes")
 else:
-  print("No")
+  print("no")
